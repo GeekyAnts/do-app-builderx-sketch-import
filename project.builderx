@@ -32,8 +32,6 @@
     "defaultAssetDirectory": "/src/assets",
     "deviceName": "iPhone 8",
     "deviceOrientation": "portrait",
-    "basePath": "/Users/ankurkedia/Sites/projects/project/sketch-to-builderX/DoAppBuilderX",
-    "tempPath": "/var/folders/sj/g2gx7gz93xsdvdr7lm36jhqc0000gn/T/BuilderqSuPspw",
     "useStylesheet": true,
     "rulers": {},
     "missingFonts": []
