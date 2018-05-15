@@ -1,0 +1,40 @@
+{
+    "artboards": [
+        "/src/screens/Groups.js",
+        "/src/screens/Profile.js"
+    ],
+    "symbols": [
+        "/src/symbols/Active.js",
+        "/src/symbols/Oval.js",
+        "/src/symbols/Line.js",
+        "/src/symbols/Line1.js",
+        "/src/symbols/Line2.js",
+        "/src/symbols/Line3.js",
+        "/src/symbols/Bg.js",
+        "/src/symbols/Line4.js",
+        "/src/symbols/Line5.js",
+        "/src/symbols/Line6.js",
+        "/src/symbols/Line7.js",
+        "/src/symbols/Oval449.js",
+        "/src/symbols/Oval448.js",
+        "/src/symbols/Oval450.js",
+        "/src/symbols/Overdue.js",
+        "/src/symbols/Snoozed.js",
+        "/src/symbols/Completed.js",
+        "/src/symbols/Shape.js",
+        "/src/symbols/Line8.js",
+        "/src/symbols/Line9.js",
+        "/src/symbols/Line10.js"
+    ],
+    "assets": [],
+    "defaultArtboardDirectory": "/src/screens",
+    "defaultSymbolDirectory": "/src/symbols",
+    "defaultAssetDirectory": "/src/assets",
+    "deviceName": "iPhone 8",
+    "deviceOrientation": "portrait",
+    "basePath": "/Users/ankurkedia/Sites/projects/project/sketch-to-builderX/DoAppBuilderX",
+    "tempPath": "/var/folders/sj/g2gx7gz93xsdvdr7lm36jhqc0000gn/T/BuilderqSuPspw",
+    "useStylesheet": true,
+    "rulers": {},
+    "missingFonts": []
+}
